@@ -3,7 +3,7 @@
   "version": "0.9.8",
   "author": "Sean Johnson <sjohnson@sjohnsonaz.com>",
   "private": false,
-  "repository": "https://github.com/zill4/artistry.git",
+  "repository": "https://github.com/Cubex-LLC/artistry.git",
   "license": "MIT",
   "description": "A powerful and configurable stylesheet",
   "main": "src/styl/main.styl",
